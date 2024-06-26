@@ -1,2 +1,2 @@
 # practice
-practicing the git hub
+practicing the git hubmerging into the main branch from new one
